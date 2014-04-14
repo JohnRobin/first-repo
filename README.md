@@ -1,4 +1,4 @@
 first-repo
 ==========
 
-A test
+A test of Github repo making
